@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Leon</h1>
-<h3>Frontend developer and student</h3>
+<h3>Web developer with a focus on front-end technologies.</h3>
 
 Currently working on [radonis](https://github.com/microeinhundert/radonis) and some private projects.
 
